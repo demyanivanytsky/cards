@@ -5,7 +5,7 @@ import "./globals.css";
 const inter = Nunito({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Infotop",
+  title: "Info Top",
   description: "Web-site for discovering and gaining your wisdom!",
 };
 
